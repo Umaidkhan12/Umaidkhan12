@@ -96,9 +96,9 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-umaidkhan.vercel.app-c9a84c?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0c)](https://umaidkhan.vercel.app)
-[![Email](https://img.shields.io/badge/✉️_EMAIL-umaidkhan8108%40gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0c)](mailto:umaidkhan8108@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Connect-c9a84c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0c)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-umaidkhan.vercel.app-c9a84c?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0c)](https://umaidkhan.vercel.app)
+[![Email](https://img.shields.io/badge/EMAIL-umaidkhan8108%40gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0c)](mailto:umaidkhan8108@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-c9a84c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0c)](https://linkedin.com)
 
 </div>
 
