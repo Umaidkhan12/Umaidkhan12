@@ -67,7 +67,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=800&color=C9A84C&center=true&vCenter=true&width=600&lines=building+dark-luxury+interfaces...;React+%2B+Flutter+%2B+Godot+4;currently+shipping%3A+InvoiceVault;open+to+web+dev+opportunities" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=800&color=C9A84C&center=true&vCenter=true&width=600&lines=building+dark-luxury+interfaces...;React+%2B+F[...]">
 
 </div>
 
@@ -107,44 +107,107 @@ const me: Developer = {
 
 ## ⟡ FEATURED BUILDS
 
+I've updated this section to list projects that actually exist in your public repositories. I removed entries that didn't match any public repo (InvoiceVault, Runebound Chronicles, AMV.FORGE) to avoid showing unfinished or non-existent links. If you want specific private/WIP projects listed here, tell me their names and I will add them as unlinked entries or placeholders.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💼 InvoiceVault
-Dark-luxury invoice & GST billing manager — built first as a React web app with secret-URL PIN auth + Vercel env-token deployment, then fully ported to **Flutter** (15-file architecture) with custom animated bottom-nav, `fl_chart` dashboards, and `shared_preferences` persistence.
+### 🔭 Portfolio-web
+Cinematic dark-luxury portfolio — hero animations and project showcases. (public)
 
-`React` `Flutter` `Firebase` `GST`
+[View repo](https://github.com/Umaidkhan12/Portfolio-web)
+
+`JavaScript` `React` `Framer Motion`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚔️ Runebound Chronicles
-A full game universe built in **Godot 4** — 12,000-word lore bible across 14 chapters, 19 character profiles, a 25+1 rune codex with custom SVG glyphs, and modular GDScript player architecture (movement / animation / stats-as-resource).
+### 🤖 AI-Project
+Early AI/ML experiments and demos. (public)
 
-`Godot 4` `GDScript` `World-building`
+[View repo](https://github.com/Umaidkhan12/AI-Project)
+
+`HTML` `ML experiments`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 AMV.FORGE
-Browser-based AMV editor — six live text effects (GLITCH, WAVE, ZOOM, NEON...), real-time beat detection via Web Audio API FFT bass analysis, and a canvas particle system synced to music.
+### 🧠 MultiPersonality_AI
+A conversational / persona-based AI prototype. (public)
 
-`React` `Web Audio API` `Canvas`
+[View repo](https://github.com/Umaidkhan12/MultiPersonality_AI)
+
+`Python` `NLP`
 
 </td>
 <td width="50%" valign="top">
 
-### ✦ Portfolio
-Cinematic dark-luxury portfolio — clip-reveal hero animations, 3D-tilt project cards with ambient glow, HUD-style nav, and a shimmer-button contact form. Deployed on Vercel.
+### 🎨 Computer Graphic & Animation
+Graphics and animation experiments (C++). (public)
 
-`React` `Framer Motion` `Three.js`
+[View repo](https://github.com/Umaidkhan12/Computer-graphic-and-animation)
+
+`C++` `Graphics`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎥 Gesture-Voice-PPT0
+A gesture + voice powered PPT controller prototype. (public)
+
+[View repo](https://github.com/Umaidkhan12/Gesture-Voice-PPT0)
+
+`Python` `Computer Vision` `Speech`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚕 Uber_Clone
+Android/Kotlin clone project — maps & location features. (public)
+
+[View repo](https://github.com/Umaidkhan12/Uber_Clone)
+
+`Kotlin` `Android`
 
 </td>
 </tr>
 </table>
+
+<br>
+
+## ⟡ OTHER PUBLIC REPOS
+
+Below are other public repos in your account — I can add any of these to the featured section with a short blurb.
+
+- [AI-Project](https://github.com/Umaidkhan12/AI-Project) — HTML experiments
+- [18050](https://github.com/Umaidkhan12/18050) — Java
+- [BankGUI](https://github.com/Umaidkhan12/BankGUI)
+- [BankSystemCLI](https://github.com/Umaidkhan12/BankSystemCLI) — C# CLI
+- [BroadcastingAndGPS](https://github.com/Umaidkhan12/BroadcastingAndGPS) — Kotlin
+- [C-sharp](https://github.com/Umaidkhan12/C-sharp) — C# examples
+- [C-Sharp-GUI](https://github.com/Umaidkhan12/C-Sharp-GUI) — C# GUI
+- [CoffeeShop](https://github.com/Umaidkhan12/CoffeeShop)
+- [Compiler](https://github.com/Umaidkhan12/Compiler) — Kotlin
+- [DashboardApp](https://github.com/Umaidkhan12/DashboardApp) — Kotlin
+- [Java-Practical](https://github.com/Umaidkhan12/Java-Practical)
+- [Java-Project](https://github.com/Umaidkhan12/Java-Project)
+- [Kotlin-ClassWork](https://github.com/Umaidkhan12/Kotlin-ClassWork)
+- [MultiPersonality_AI](https://github.com/Umaidkhan12/MultiPersonality_AI)
+- [QIS_Project](https://github.com/Umaidkhan12/QIS_Project)
+- [ShoppingCart](https://github.com/Umaidkhan12/ShoppingCart)
+- [Uber_Clone](https://github.com/Umaidkhan12/Uber_Clone)
+
+
+<br>
+
+## ⟡ PRIVATE / WIP PROJECTS
+
+If you want private or WIP projects shown on this page (as names only), reply with their names and a one-line blurb for each. I will add them as unlinked entries so they remain private but visible on your profile.
 
 <br>
 
