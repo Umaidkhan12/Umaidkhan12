@@ -67,13 +67,13 @@
     <rect x="180" y="195" width="110" height="25" rx="4" fill="#c9a84c" opacity="0.1" stroke="#c9a84c" stroke-width="1"/>
     <text x="235" y="213" text-anchor="middle" fill="#f0d98c">React • Vite</text>
 
-    <rect x="310" y="195" width="110" height="25" rx="4" fill="#6366f1" opacity="0.1" stroke="#6366f1" stroke-width="1"/>
+  <rect x="310" y="195" width="110" height="25" rx="4" fill="#6366f1" opacity="0.1" stroke="#6366f1" stroke-width="1"/>
     <text x="365" y="213" text-anchor="middle" fill="#a5b4fc">Godot • GDScript</text>
 
-    <rect x="440" y="195" width="110" height="25" rx="4" fill="#c9a84c" opacity="0.1" stroke="#c9a84c" stroke-width="1"/>
+  <rect x="440" y="195" width="110" height="25" rx="4" fill="#c9a84c" opacity="0.1" stroke="#c9a84c" stroke-width="1"/>
     <text x="495" y="213" text-anchor="middle" fill="#f0d98c">Kotlin • Flutter</text>
 
-    <rect x="570" y="195" width="110" height="25" rx="4" fill="#6366f1" opacity="0.1" stroke="#6366f1" stroke-width="1"/>
+  <rect x="570" y="195" width="110" height="25" rx="4" fill="#6366f1" opacity="0.1" stroke="#6366f1" stroke-width="1"/>
     <text x="625" y="213" text-anchor="middle" fill="#a5b4fc">Three.js • Motion</text>
   </g>
 
